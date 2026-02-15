@@ -1,2 +1,2 @@
 # RAG_11klase
-Pagaidam ir tikai uzstadīšana
+Vides sagatavošana un testēšana
