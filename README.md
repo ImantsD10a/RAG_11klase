@@ -1,4 +1,4 @@
 # RAG_11klase
-Vides sagatavošana un testēšana.
+Vides sagatavošana (screenshot) un testēšana.
 
 Ar vides sagatavošanu bija klūdas, nesanāca aktivizēt izmantojot dažādas komandas.
