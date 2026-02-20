@@ -1,0 +1,6 @@
+LLM (Large Language Model) ir neironu tīkls, kas apmācīts uz ļoti lieliem teksta datu apjomiem.
+
+LLM spēj ģenerēt tekstu, atbildēt uz jautājumiem un veikt valodas uzdevumus,
+balstoties uz statistiskām sakarībām starp vārdiem.
+
+LLM piemēri ir GPT modeļi, kas tiek izmantoti čatbotu un palīgsistēmu veidošanā.

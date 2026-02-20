@@ -1,0 +1,6 @@
+Prompt ir ievades teksts, ko lietotājs sniedz valodas modelim,
+lai norādītu, kādu uzdevumu tas veiks.
+
+Labi formulēts prompt var būtiski uzlabot modeļa atbildes kvalitāti.
+
+Prompt engineering ir prasme veidot efektīvus un skaidrus uzdevumus valodas modeļiem.

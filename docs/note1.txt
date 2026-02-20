@@ -1,0 +1,7 @@
+AI (mākslīgais intelekts) ir datorzinātnes nozare, kas pēta sistēmas, kuras spēj veikt uzdevumus,
+kas parasti prasa cilvēka intelektu, piemēram, mācīšanos, spriešanu un lēmumu pieņemšanu.
+
+AI sistēmas var būt šauras (specializētas vienam uzdevumam) vai vispārīgas.
+Mūsdienās visbiežāk tiek izmantots šaurais AI.
+
+AI tiek izmantots tādās jomās kā datorredze, dabīgās valodas apstrāde un rekomendāciju sistēmas.
