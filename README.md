@@ -3,4 +3,4 @@ Vides sagatavošana (screenshot) un testēšana.
 
 Ar vides sagatavošanu bija klūdas, nesanāca aktivizēt izmantojot dažādas komandas.
 
-Var uzdot jautjumus par AI, LLM un prompt
+Var uzdot jautājumus par AI, LLM un prompt
